@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/simulation/qsim
+vporta_and
+Z1 !s110 1743421771
+!i10b 1
+!s100 CXHiUkZ30[SJoRUGk3g`F0
+IV:nlE7]ciC0MX78]d0c073
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743421767
+8porta_and.vo
+Fporta_and.vo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1743421771.000000
+!s107 porta_and.vo|
+!s90 -work|work|porta_and.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vporta_and_vlg_vec_tst
+R1
+!i10b 1
+!s100 I0iQhMRl3nKJVa8_PkcV;2
+Ig;:h1;b0f12zh<H4@mbUP0
+R2
+R0
+w1743421765
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6

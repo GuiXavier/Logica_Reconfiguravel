@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/DE10_LITE_Golden_Top.v
+source_file = 1, C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/porta_and.bdf
+source_file = 1, C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/db/porta_and.cbx.xml
+design_name = porta_and
+instance = comp, \X~output , X~output, porta_and, 1
+instance = comp, \A~input , A~input, porta_and, 1
+instance = comp, \B~input , B~input, porta_and, 1
