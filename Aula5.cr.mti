@@ -1,0 +1,10 @@
+{C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity uart_testbench
+-- Compiling architecture sim of uart_testbench
+
+} {} {}}
