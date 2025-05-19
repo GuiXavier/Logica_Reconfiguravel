@@ -8,44 +8,104 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_lite/18.1/modelsim_ase/win32aloem
+Ea008f_generic_shift_reg
+Z0 w1744025568
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel
+Z4 8C:/Users/Guilherme Xavier/Documents/GitHub/turma2022-2_vhdl/Aulas/Aula008/a008f_generic_shift_reg.vhdl
+Z5 FC:/Users/Guilherme Xavier/Documents/GitHub/turma2022-2_vhdl/Aulas/Aula008/a008f_generic_shift_reg.vhdl
+l0
+L10
+VeUkn<]E]O1[BeZLe0g_Pm0
+!s100 LHWXjHndl5UH82a`PTi3N1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1747134133
+!i10b 1
+Z8 !s108 1747134133.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Guilherme Xavier/Documents/GitHub/turma2022-2_vhdl/Aulas/Aula008/a008f_generic_shift_reg.vhdl|
+Z10 !s107 C:/Users/Guilherme Xavier/Documents/GitHub/turma2022-2_vhdl/Aulas/Aula008/a008f_generic_shift_reg.vhdl|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 23 a008f_generic_shift_reg 0 22 eUkn<]E]O1[BeZLe0g_Pm0
+l24
+L22
+VhR984jJM6OS>QUZn2HhIZ1
+!s100 cO9>Z`LhY?Mb<J1GlOiRS1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eshift_reg_tb
+w1747136892
+R1
+R2
+R3
+8C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/shift_reg_tb.vhd
+FC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/shift_reg_tb.vhd
+l0
+L4
+VXBoCF3k4S4bc1IH[fml9n0
+!s100 Bb;P3P3gB6a:EmBl^7cgJ1
+R6
+32
+!s110 1747136896
+!i10b 1
+!s108 1747136896.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/shift_reg_tb.vhd|
+!s107 C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/shift_reg_tb.vhd|
+!i113 1
+R11
+R12
 Euart_testbench
-Z0 w1745925701
-Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z4 dC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel
-Z5 8C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd
-Z6 FC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd
+Z13 w1745925701
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd
+Z16 FC:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd
 l0
 L5
 Vol2LcQYVm74;`=8^1g6zg3
 !s100 GP6HDVJ@PBGe4FGcd@o1W2
-Z7 OV;C;10.5b;63
+R6
 32
-Z8 !s110 1745925704
+Z17 !s110 1745925704
 !i10b 1
-Z9 !s108 1745925704.000000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd|
-Z11 !s107 C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd|
+Z18 !s108 1745925704.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd|
+Z20 !s107 C:/Users/Guilherme Xavier/Documents/GitHub/Logica_Reconfiguravel/Gerador de Sinal UART Aula6/Gerador de Sinal UART.vhd|
 !i113 1
-Z12 o-work work -2002 -explicit
-Z13 tExplicit 1 CvgOpt 0
+R11
+R12
 Asim
+R14
 R1
 R2
-R3
 DEx4 work 14 uart_testbench 0 22 ol2LcQYVm74;`=8^1g6zg3
 l25
 L8
 VQ4M`1INGkPaG?F6MC@`z53
 !s100 BZL;GK?TS0Inc1zODOQ7?1
-R7
+R6
 32
-R8
+R17
 !i10b 1
-R9
-R10
-R11
+R18
+R19
+R20
 !i113 1
+R11
 R12
-R13

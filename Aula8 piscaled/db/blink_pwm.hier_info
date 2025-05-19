@@ -1,0 +1,9 @@
+|pwm
+clk => ~NO_FANOUT~
+sw[0] => ~NO_FANOUT~
+sw[1] => ~NO_FANOUT~
+sw[2] => ~NO_FANOUT~
+sw[3] => ~NO_FANOUT~
+led <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
