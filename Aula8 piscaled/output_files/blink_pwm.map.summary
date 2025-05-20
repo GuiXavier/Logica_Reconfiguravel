@@ -1,13 +1,13 @@
-Analysis & Synthesis Status : Successful - Mon May 19 09:05:48 2025
+Analysis & Synthesis Status : Successful - Tue May 20 08:39:47 2025
 Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 Revision Name : blink_pwm
-Top-level Entity Name : pwm
+Top-level Entity Name : leds_top
 Family : MAX 10
-Total logic elements : 0
-    Total combinational functions : 0
-    Dedicated logic registers : 0
-Total registers : 0
-Total pins : 6
+Total logic elements : 46
+    Total combinational functions : 46
+    Dedicated logic registers : 26
+Total registers : 26
+Total pins : 21
 Total virtual pins : 0
 Total memory bits : 0
 Embedded Multiplier 9-bit elements : 0
